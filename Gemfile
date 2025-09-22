@@ -57,7 +57,7 @@ group :development, :test do
   gem "debug", platforms: %i[ mri windows ], require: "debug/prelude"
 
   # RSpec for testing
-  gem "rspec-rails", "~> 7.1"
+  gem "rspec-rails", "~> 8.0"
 
   # Factory Bot for test data
   gem "factory_bot_rails", "~> 6.4"
