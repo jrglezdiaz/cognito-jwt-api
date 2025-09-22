@@ -12,7 +12,7 @@ gem "puma", "~> 6.5"
 gem "jbuilder"
 
 # JWT token handling
-gem "jwt", "~> 2.9"
+gem "jwt", "~> 3.1"
 
 # AWS SDK for Cognito
 gem "aws-sdk-cognitoidentityprovider", "~> 1.106"
