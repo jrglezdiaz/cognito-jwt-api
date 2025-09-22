@@ -18,7 +18,7 @@ gem "jwt", "~> 2.9"
 gem "aws-sdk-cognitoidentityprovider", "~> 1.106"
 
 # HTTP client for external API calls
-gem "httparty", "~> 0.22.0"
+gem "httparty", "~> 0.23.1"
 
 # Environment variables
 gem "dotenv-rails", "~> 3.1", groups: [ :development, :test ]
