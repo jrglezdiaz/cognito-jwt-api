@@ -15,7 +15,7 @@ gem "jbuilder"
 gem "jwt", "~> 2.9"
 
 # AWS SDK for Cognito
-gem "aws-sdk-cognitoidentityprovider", "~> 1.106"
+gem "aws-sdk-cognitoidentityprovider", "~> 1.130"
 
 # HTTP client for external API calls
 gem "httparty", "~> 0.22.0"
